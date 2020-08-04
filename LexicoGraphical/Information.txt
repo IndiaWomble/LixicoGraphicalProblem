@@ -1,0 +1,7 @@
+Approach -
+First I am swapping the elements until all the 'b's are behind the last a in the given string and at the same time I am decrementing 1 
+point from the total points available to us.
+After that I am replacing the first encountered 'b's with 'a' if i have any points available and decrementing 2 points from the total 
+points available to us.
+
+Time Complexity - O(n^2 + 3(n + 1))

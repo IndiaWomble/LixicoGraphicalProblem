@@ -1,0 +1,13 @@
+D:\C#\LexicoGraphical\bin\Debug\netcoreapp3.1\LexicoGraphical.exe
+D:\C#\LexicoGraphical\bin\Debug\netcoreapp3.1\LexicoGraphical.deps.json
+D:\C#\LexicoGraphical\bin\Debug\netcoreapp3.1\LexicoGraphical.runtimeconfig.json
+D:\C#\LexicoGraphical\bin\Debug\netcoreapp3.1\LexicoGraphical.runtimeconfig.dev.json
+D:\C#\LexicoGraphical\bin\Debug\netcoreapp3.1\LexicoGraphical.dll
+D:\C#\LexicoGraphical\bin\Debug\netcoreapp3.1\LexicoGraphical.pdb
+D:\C#\LexicoGraphical\obj\Debug\netcoreapp3.1\LexicoGraphical.csprojAssemblyReference.cache
+D:\C#\LexicoGraphical\obj\Debug\netcoreapp3.1\LexicoGraphical.AssemblyInfoInputs.cache
+D:\C#\LexicoGraphical\obj\Debug\netcoreapp3.1\LexicoGraphical.AssemblyInfo.cs
+D:\C#\LexicoGraphical\obj\Debug\netcoreapp3.1\LexicoGraphical.csproj.CoreCompileInputs.cache
+D:\C#\LexicoGraphical\obj\Debug\netcoreapp3.1\LexicoGraphical.dll
+D:\C#\LexicoGraphical\obj\Debug\netcoreapp3.1\LexicoGraphical.pdb
+D:\C#\LexicoGraphical\obj\Debug\netcoreapp3.1\LexicoGraphical.genruntimeconfig.cache
